@@ -1,6 +1,6 @@
 import * as React from "react";
 import { PropertyControls, ControlType } from "framer";
-import { BlueComponent } from "./blue_box";
+import { BlueComponent } from "./blue_component";
 import { GreenComponent } from "./green_component";
 
 const style: React.CSSProperties = {
